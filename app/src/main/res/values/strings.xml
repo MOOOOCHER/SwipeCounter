@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Swipe_counter</string>
+    <string name="app_name">Swipe Counter</string>
     <string name="you_have_swiped_this_many_times_today">You have swiped this many times today:</string>
     <string name="hi">Hi</string>
 </resources>
